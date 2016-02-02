@@ -1,0 +1,28 @@
+name: vovinamfitness
+favicon: null
+layout_spectrum: 0.8843402434140444
+typography_spectrum: 0.7580984844826162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7732144657056779
+  lightness: 0.05245734844356775
+  saturation: 0.5331751841586083
+  rhythmicContrast: 0.6776793715544045
+purpose: []
